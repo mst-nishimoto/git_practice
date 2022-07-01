@@ -1,1 +1,3 @@
-# git_practice
+# gitの練習
+
+* 1.git status
